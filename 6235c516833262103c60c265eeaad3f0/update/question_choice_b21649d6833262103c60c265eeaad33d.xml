@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Duration">2e1609d6833262103c60c265eeaad3b0</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-07-19 18:35:16</sys_created_on>
+        <sys_id>b21649d6833262103c60c265eeaad33d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1 year</sys_name>
+        <sys_package display_value="Service Now ANRM Major Project" source="x_1608836_service">6235c516833262103c60c265eeaad3f0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Service Now ANRM Major Project">6235c516833262103c60c265eeaad3f0</sys_scope>
+        <sys_update_name>question_choice_b21649d6833262103c60c265eeaad33d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-07-19 18:35:16</sys_updated_on>
+        <text>1 year</text>
+        <value>1 year</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=b21649d6833262103c60c265eeaad33d"/>
+</record_update>
